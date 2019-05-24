@@ -12,7 +12,7 @@ var trivia = {
     correctAnswers: [
                     "B. ET", "D. Pepsi", "A. Combat", "A. ALF", "C. New Kids On The Block"],
     imageArray: [
-                "<img class='center-block img-right' src='assets/images/ET.gif'>", "<img class='center-block img-right' src='assets/images/pepsi.gif'>", "<img class='center-block img-right' src='assets/images/atari.gif'>", "<img class='center-block img-right' src='assets/images/ALF.gif'>", "<img class='center-block img-right' src='assets/images/New.gif'>"],
+                "<img class='center-block img-right' src='assets/images/ET.gif'>", "<img class='center-block img-right' src='assets/images/pepsi.gif'>", "<img class='center-block img-right' src='assets/images/atari.gif'>", "<img class='center-block img-right' src='assets/images/suprised.gif'>", "<img class='center-block img-right' src='assets/images/New.gif'>"],
     clock: "",
     questionCounter: 0,
     timeCounter: 20,
